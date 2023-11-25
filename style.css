@@ -1,0 +1,27 @@
+.fundo{
+    color: blue;
+    background-color: brown;
+}
+
+
+.cor1{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+
+.cor{
+    background-color: rgb(151, 0, 106);
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+
+    flex-grow: 1;
+}
+
+
+.cor.special {
+    /* Este item terá mais capacidade de expansão */
+    flex-grow: 5;
+}
