@@ -140,3 +140,71 @@ const container = document.querySelector('.vad1');
 //Eventos/ click/ focus/ blue/ submit / load / input
 
 
+// REVISÃO GERAL DA ULTIMA SEMANA DE NOVEMBRO 
+
+
+/* if else */
+
+/* Switch */
+
+/* For While */
+
+/* Função */
+
+/* Operadores Matematicos e Logicas */
+
+/* Arrays - Posição */
+
+/* Arrays - Ordenação */
+
+/* Arrays - Retira repetidos */
+
+/* Arrays - Retira Comparação */
+
+/* Arrays - Concatenar */
+
+/* String - Altera valor */
+
+/* String - Concatenar */
+
+/* Arvore Binaria */
+
+/* Tabela Hash */
+
+/* Lista Vinculada */
+
+/* Leetcode - Build Array from Permutation */
+
+/* Leetcode - Concatenation of Array */
+
+/* Leetcode - Number of Good Pairs */
+
+/* Dom - queryselector(' ')  */
+
+/* Dom - Atribute */
+
+/* Dom - innerText*/
+
+/* Dom - creat Element*/
+
+/* Dom Evento - click, blue, foces, load, submit, input */
+
+/* Escopo */
+
+/* localStorage */
+
+/* Promises */
+
+/* HTML - Semanantica */
+
+/* HTML - Data attibutes */
+
+/* CSS - Keyframes */
+
+/* CSS - Media Queries */
+
+/* CSS - Flexbox */
+
+/* CSS - Grid Layout */
+
+/* Git - GitHob */
